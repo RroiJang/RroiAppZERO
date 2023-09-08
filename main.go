@@ -5,13 +5,18 @@ import (
 )
 
 
-func sum (a, b int) int {
+func sum(a, b int) int {
 	return a + b
+}
+
+func mul(a, b int) int{
+	return a * b
 }
 
 func main(){
 	fmt.Println("RroiJang")
 	fmt.Println(sum(1,2))
+	fmt.Println(mul(1,2))
 }
 
 

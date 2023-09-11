@@ -4,15 +4,39 @@ import (
 	"fmt"
 )
 
-
-func sum (a, b int) int {
-	return a + b
+func main() {
+	
 }
 
-func main(){
-	fmt.Println("RroiJang")
-	fmt.Println(sum(1,2))
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// func sum (a, b int) int {
+// 	return a + b
+// }
+
+// func main(){
+// 	fmt.Println("RroiJang")
+// 	fmt.Println(sum(1,2))
+// }
 
 
 
